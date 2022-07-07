@@ -1,16 +1,14 @@
 # communitybuild-fullstack
-### Description
-- Community build is a muilti chat web-app. Implemented using React and Firebase.
-- Behind the backend, I was used React-Firebase for authentication with Google-auth, and highly secure specially for non-authorized users. 
-- And I have developed a channel section to add new channels and communicate through these channels.
-- I have used firestore to keep store all the messages spread among the channels or community. 
-- And ofcourse our database will be safe under google-firebase security so no worries about securities.
-
-### Features
-- The channels or messages are stored in firestore database so quickly accessible via our app.
-- I was used react-router-dom for saving server-side loads or refreshing. this functionality improve the speed for redirect to one component to another without refreshing from  server-side it makes life easier, save lots of time and fast to switch without loading or refreshing the whole page.
-- Our data will be in real-time, if any changes make happens in messages or channels then it will automatically changes in our app in real-time no need to refresh our page.
-the app will be responsive like if you used in Desktop or Mobile devices it render same thing.
+#description
+-Community building is a muilti chat web application. Used using React and Firebase.
+-Back then, I used React-Firebase to be authorized by Google-authors, and it was very secure especially for unauthorized users.
+-I have also improved the channel section to add new channels and connect with these channels.
+-I have used the firestore to store all messages distributed in channels or in the community.
+-And surely our site will be protected under google-firebase security so no worries about security.
+#Features
+-Channels or messages are stored on the firestore website and are immediately accessible through our app.
+-I used the react-router-dom to store server side load or upgrade. this function improves the redirect speed from one part to another without updating from the server ---side makes life easier, saves a lot of time and is quick to change without loading or refining the entire page.
+-Our data will be real-time, if changes in messages or channels will automatically change in our app in real time there is no need to update our page. the app will react -as if you used it on Desktop or mobile devices it offers the same thing.
 
 
 ![image](https://user-images.githubusercontent.com/62851444/177819537-35614dec-6fae-4fcb-aa31-44e9428cfa2f.png)
