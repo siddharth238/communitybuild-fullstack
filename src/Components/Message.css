@@ -1,0 +1,22 @@
+.MessageInfo {
+  padding-right: 10px;
+   
+ }
+ .MessageInfo  >h4{
+    color: white;
+    font-weight : 300;
+    margin-right: 4px;
+    font-size: 10px;   
+    }
+
+
+.MessageInfo2{
+    padding-left: 10px;
+
+}
+.MessageInfo2>h4{
+    color: white;
+    font-weight: 300;
+    margin-left: 4px;
+    font-size: 10px;
+  }
